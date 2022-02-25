@@ -65,4 +65,4 @@ The following configuration will give you a good start point in line with Gatsby
 }
 ```
 
-For redirects, you'll probably want to [use files with meta tags](https://www.gatsbyjs.com/plugins/gatsby-plugin-meta-redirect/).
+For redirects, you'll probably want to [use files with meta tags](/plugins/gatsby-plugin-meta-redirect/).
